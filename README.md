@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Everardo "Ever" Araujo & my github & social media username is @ElAraujo97!
-- 👀 I’m interested in learning about software engineering and hardware desigining.
-- 🌱 I’m currently studing biomedical engineering at UT. My anticipated graduation is May 2022. 
-- 📫 How to reach me:
-  email: araujo_everardo@utexas.edu
+Greetings! My name is Everardo "Ever" Araujo. My github & social media username is @ElAraujo97!
 
-<!---
-ElAraujo97/ElAraujo97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently I am studing computational biomedical engineering at UT. I have had a few software projects and embedded systems projects in Assembly, C, C++, and Java. Recently I have learned Swift and will likely develop and iOS app in the future! My anticipated graduation is May 2022. Actively looking for a software or hardware internship. If you would like to reach out, email me & check me out on LinkedIn.
+
+How to reach me:
+  email: araujo_everardo@utexas.edu
+  LinkedIn: https://www.linkedin.com/in/everardo-araujo-a2b783129/
